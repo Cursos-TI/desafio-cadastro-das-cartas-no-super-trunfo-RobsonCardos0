@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Esse codigo foi apromorado para calcular desidade poulacional e PIB per capita das cartas de cidades
+// Esse codigo foi aprimorado para calcular desidade poulacional e PIB per capita das cartas de cidades
 
 int main() {
 
